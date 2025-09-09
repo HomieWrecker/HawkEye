@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HawkEye â€” Mug Likelihood (v0.2)
+// @name         HawkEye Mug Likelihood (v0.2)
 // @namespace    homiewrecker.hawkeye.muglikelihood
 // @version      0.2.0
 // @description  Predict a target's on-hand cash likelihood using public page signals + your mug history. PDA-friendly, async, cached.
